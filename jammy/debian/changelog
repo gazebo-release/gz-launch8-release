@@ -1,3 +1,9 @@
+gz-launch8 (8.0.2-1~jammy) jammy; urgency=medium
+
+  * gz-launch8 8.0.2-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 09 Oct 2025 19:07:15 +0200
+
 gz-launch8 (8.0.1-1~jammy) jammy; urgency=medium
 
   * gz-launch8 8.0.1-1 release
